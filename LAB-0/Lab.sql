@@ -1,5 +1,5 @@
-create database School1;
-use School1;
+create database School;
+use School;
 create table student
 ( USN varchar(15),
 name varchar(15),
